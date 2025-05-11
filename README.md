@@ -15,3 +15,6 @@ Goal: Understand and analyze ultra-marathon running data.
 - Filtering based on event types, location, and year
 - Identification of performance patterns in different event lengths (e.g., 50km, 50mi)
 
+# Dataset
+The dataset used in this project was sourced from Kaggle, specifically the Ultra Marathon Running Dataset (https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633). It includes detailed event records such as event name, distance, year, athlete details, and finishing times.
+
